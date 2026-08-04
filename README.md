@@ -1,1 +1,2 @@
 # Depression-Detection-Using-Multi-Modal-Analysis
+Developed a real-time AI-powered web application to detect depression using both text and voice inputs. Implemented Natural Language Processing (NLP), speech recognition, and machine learning models to analyze user inputs and generate predictions. Built the application using Python and Streamlit, and used Git and GitHub for version control and project management.
